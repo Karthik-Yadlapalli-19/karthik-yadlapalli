@@ -8,7 +8,7 @@
 <a href="mailto:1901.karthik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=02A4F0&label=Profile+Views" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Karthik-Yadlapalli-19&style=flat-square&color=02A4F0&label=Profile+Views" alt="Profile views">
 
 </div>
 
@@ -50,7 +50,7 @@ open_to: Flutter / Mobile roles — Hyderabad · Bangalore · Chennai
 Expense-splitting fintech app with a dark-themed UI, a multi-mode split engine, and a Settle Up flow. Built end-to-end with a fintech-UX focus.
 
 `Flutter` · `Dart` · `Node.js` · `PostgreSQL`
-[→ Repo](https://github.com/YOUR_GITHUB_USERNAME/splitpay)
+[→ Repo](https://github.com/Karthik-Yadlapalli-19/splitpay)
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Expense-splitting fintech app with a dark-themed UI, a multi-mode split engine, 
 Online multiplayer party game where you win by picking the *wrong* answer. Real-time rooms, audio routing, team-based confusion mechanic.
 
 `Flutter` · `WebRTC` · `Socket.io` · `Realtime`
-[→ Repo](https://github.com/YOUR_GITHUB_USERNAME/faux)
+[→ Repo](https://github.com/Karthik-Yadlapalli-19/faux)
 
 </td>
 </tr>
@@ -70,7 +70,7 @@ Online multiplayer party game where you win by picking the *wrong* answer. Real-
 Unified mobile health companion — offline-first, full design system, HealthKit / Health Connect integration and a sync layer.
 
 `Flutter` · `Offline-first` · `Supabase` · `HealthKit`
-[→ Repo](https://github.com/YOUR_GITHUB_USERNAME/liva)
+[→ Repo](https://github.com/Karthik-Yadlapalli-19/liva)
 
 </td>
 <td width="50%" valign="top">
@@ -91,13 +91,13 @@ Currently mapping my Flutter foundation onto native iOS — `@Observable`, Swift
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=tokyonight" alt="Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Karthik-Yadlapalli-19&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik-Yadlapalli-19&hide_border=true&theme=tokyonight" alt="Streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-Yadlapalli-19&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 
 <!-- Animated activity graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-Yadlapalli-19&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 
 </div>
 
@@ -107,7 +107,7 @@ Currently mapping my Flutter foundation onto native iOS — `@Observable`, Swift
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Karthik-Yadlapalli-19/Karthik-Yadlapalli-19/output/snake.svg" alt="Snake animation" />
 
 </div>
 
