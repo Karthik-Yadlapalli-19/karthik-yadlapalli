@@ -96,7 +96,6 @@ Rebuilding my Flutter instincts in SwiftUI — `@Observable`, SwiftData, and a f
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthik-Yadlapalli-19&bg_color=0b0b12&color=ececf1&line=8b5cf6&point=2dd4bf&area=true&area_color=8b5cf6&hide_border=true&title_color=8b5cf6" alt="Activity graph" />
 
-
 </div>
 
 <!-- ===================== SNAKE ===================== -->
